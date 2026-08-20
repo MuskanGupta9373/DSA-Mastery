@@ -8,6 +8,7 @@ day by day.
 
 
 ## 📌 Topics Covered
+- ✅ 🔺 Pattern Printing 
 - 📦 Arrays & Strings
 - 🔃 Sorting & Searching
 - 🔍 Binary Search
