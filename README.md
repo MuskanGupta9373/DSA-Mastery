@@ -8,7 +8,9 @@ day by day.
 
 
 ## 📌 Topics Covered
-- ✅ 🔺 Pattern Printing 
+- ✅ 🔺 Pattern Printing
+- ✅ 🔁 Recursion & Backtracking
+- ✅ 🧮 Basic Maths 
 - 📦 Arrays & Strings
 - 🔃 Sorting & Searching
 - 🔍 Binary Search
