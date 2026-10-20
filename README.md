@@ -12,7 +12,7 @@ day by day.
 - ✅ 🔁 Recursion & Backtracking
 - ✅ 🧮 Basic Maths
 - ✅ 🔃 Sorting
-- 📦 Arrays & Strings
+- ✅ Arrays & Strings
 - 🔃 Sorting & Searching
 - 🔍 Binary Search
 - 🔗 Linked Lists
